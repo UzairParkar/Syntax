@@ -5,9 +5,17 @@ from my techstack.
 ```
 - Table of Contents
 ▢ Html
+
 ▢ CSS
+
 ▢ JavaScript
+
 ▢ Python 
+
 ▢ SQL
+
 ▢ Flask 
+
 ▢ Django
+
+▢ Git 
